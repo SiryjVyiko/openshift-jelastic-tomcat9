@@ -52,7 +52,7 @@ APP_ENV="/opt/repo/versions/${Version}/conf/tomcat-env.sh"
 TOMCAT_SCRIPT=$CATALINA_HOME/bin/catalina.sh
 
 # The name of this program.
-PROG="Tomcat8"
+PROG="Tomcat9"
 
 # Resolve links - $0 may be a soft link.
 while [ -h "$PROG" ]; do
